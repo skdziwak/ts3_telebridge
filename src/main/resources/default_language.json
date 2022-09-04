@@ -1,0 +1,28 @@
+{
+    "translations": {
+        "MESSAGES_FORBIDDEN": "Forbidden",
+        "MESSAGES_INVALID_COMMAND": "Invalid command",
+        "MESSAGES_INTERNAL_SERVER_ERROR": "Internal server error",
+        "COMMANDS_HELP_RESPONSE": "Commands:\n${commands}",
+        "COMMANDS_HELP_DESCRIPTION": "Displays list of commands",
+        "COMMANDS_START_DESCRIPTION": "Registers user",
+        "COMMANDS_START_RESPONSE": "Registered ${user}. Type /help for more info.",
+        "COMMANDS_START_RESPONSE_ALREADY_REGISTERED": "Already registered. Type /help for more info",
+        "COMMANDS_REGISTER_BRIDGE_SUCCESS": "Bridge registered. You can now remove your message",
+        "COMMANDS_REGISTER_BRIDGE_DUPLICATE": "There is already a registered bridge in this chat",
+        "MESSAGES_NO_BRIDGE": "Bridge does not exist on this chat",
+        "COMMANDS_BRIDGE_INFO_RESPONSE": "Host: ${host}\nPort: ${port}\nQuery port: ${queryPort}\nUsername: ${username}\nOwner: ${owner}",
+        "MESSAGES_OK": "Ok",
+        "COMMANDS_LIST_RESPONSE": "Active users:\n${list}",
+        "COMMANDS_LIST_USER_MUTED": "Muted",
+        "MESSAGES_USER_JOINED": "User ${user} joined the server",
+        "MESSAGES_USER_LEFT": "User ${user} left the server",
+        "COMMANDS_MESSAGE_CLIENT_NOT_FOUND": "Client not found",
+        "COMMANDS_MESSAGE_TOO_LONG": "Message is too long",
+        "COMMANDS_LIST_EMPTY": "No active users",
+        "COMMANDS_SET_TRANSLATION_INVALID_KEY": "Invalid key",
+        "COMMANDS_ADD_MODERATOR_MESSAGE": "Send this command to the bot in a private message to claim moderator permissions. Token expires in an hour. /claimModerator ${token}",
+        "COMMANDS_CLAIM_MODERATOR_INVALID_TOKEN": "Invalid or expired token.",
+        "COMMANDS_CLAIM_BRIDGE_DOES_NOT_EXIST": "Bridge does not exist."
+    }
+}
