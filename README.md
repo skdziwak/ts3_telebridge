@@ -23,8 +23,8 @@ Telebridge is a Java-based application that integrates Telegram with TeamSpeak, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telebridge.git
-   cd telebridge
+   git clone https://github.com/skdziwak/ts3_telebridge.git
+   cd ts3_telebridge
    ```
 
 2. Configure the application properties:
